@@ -1,4 +1,3 @@
-# MLPIII_2016_2_LISTA1
-Repositório da lista de exercício nlp IIII
+# REPOSITÓRIO DE CÓDIGO DA DISCIPLINA DE METODOLOGIA E LINGUAGEM DE PROGRAMAÇÃO III PERÍODO 2016.2
 
-Alunos X e Y
+Prof. Jefferson Ferreira Barbosa
